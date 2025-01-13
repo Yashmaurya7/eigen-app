@@ -3,7 +3,7 @@ import { Compare } from "@/components/ui/compare";
 
 export function CompareDemo() {
   return (
-    <div className="min-h-screen bg-black p-8 flex flex-col items-center gap-8 pt-64 pb-32 ">
+    <div className="min-h-screen bg-black  flex flex-col items-center gap-8 pt-32  ">
       {/* Heading */}
       <h1 className="text-4xl font-bold text-blue-600 text-center p-8">
         Redefining Healthcare using AI into a better world

@@ -7,13 +7,10 @@ export function FoundingTeamFold() {
         <h2 className="text-8xl md:text-6xl  font-bold text-blue-600">
           Founding Team 
         </h2>
-        <p className="text-2xl md:text-2xl text-gray mt-4 pb-32">
+        <p className="text-2xl md:text-2xl text-white mt-4 pb-16">
           Our team members have studied or worked at 
         </p>
-        <p className="text-lg md:text-xl text-gray-400 mt-4">
-        
-
-        </p>
+       
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 mt-8 ">
           <div className="bg-black shadow-lg rounded-lg p-6 ">
             <p className="text-2xl font-medium text-white">Carnegie Mellon University</p>

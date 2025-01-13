@@ -70,21 +70,21 @@ const Navbar = async () => {
     <nav className="bg-black text-white shadow-md">
       <div className="container mx-auto px-4 flex justify-between items-center h-16">
         {/* Logo */}
-        <Link href="/" className="text-2xl font-bold text-blue-600">
-          EigenGram
+        <Link href="/" className="text-2xl font-bold text-white">
+          Eigengram
         </Link>
         
         {/* Links */}
         <div className="flex space-x-6">
-          <Link href="#www" className="hover:text-blue-600">
+          <Link href="#www" className="hover:text-blue-600 text-sm">
             About
           </Link>
           
-          <Link href="#abrief" className="hover:text-blue-600">
+          <Link href="#abrief" className="hover:text-blue-600 text-sm">
             Case Studies
           </Link>
          
-          <Link href="#team" className="hover:text-blue-600 ">
+          <Link href="#team" className="hover:text-blue-600 text-sm ">
             Team
           </Link>
         </div>
