@@ -117,7 +117,7 @@ export function ImageCarouselFold() {
         <h1 className="text-6xl font-bold text-blue-600 pb-4">
           Some of Our Research
         </h1>
-        <p className="text-gray-400 mt-2 text-2xl pb-12 ">
+        <p className="text-white mt-2 text-2xl pb-12 ">
           Explore our breakthrough innovations in precision medicine and drug discovery
         </p>
       </div>

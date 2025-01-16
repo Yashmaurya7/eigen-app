@@ -88,7 +88,7 @@ const Navbar = async () => {
             Team
           </Link>
         </div>
-        <Link className={buttonVariants()} href='/sign-in'>
+        <Link className={buttonVariants()} href="#footer">
        <div className='text-white hover:text-blue-600   '>
          Contact Us
          </div>
