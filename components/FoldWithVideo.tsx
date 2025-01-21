@@ -3,7 +3,7 @@ import React from 'react';
 export function FoldWithVideo() {
   return (
     <section className="relative h-screen w-full">
-      {/* Background Video */}
+      
       <video
         className="absolute top-0 left-0 h-full w-full object-cover"
         autoPlay
