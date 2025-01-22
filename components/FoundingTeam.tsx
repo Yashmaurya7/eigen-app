@@ -4,7 +4,7 @@ export function FoundingTeamFold() {
   return (
     <section id="team" className="bg-black py-12 pb-20">
       <div className="max-w-6xl mx-auto px-6 text-center">
-        <h2 className="text-8xl md:text-6xl  font-bold text-blue-600">
+        <h2 className="text-6xl md:text-6xl lg:text-8xl font-bold text-blue-600">
           Founding Team 
         </h2>
         <p className="text-2xl md:text-2xl text-white mt-4 pb-16">
